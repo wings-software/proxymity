@@ -1,0 +1,22 @@
+{
+    "/get-test-data": {
+        "get": {
+            "metaData": {},
+            "resource": {
+                "versionInfo": {
+                    "version": "1.0.40000",
+                    "buildNo": "40000123131312312",
+                    "gitCommit": "8a41d52",
+                    "gitBranch": "PL-3196",
+                    "timestamp": "190910-0726"
+                },
+                "runtimeInfo": {
+                    "primary": true,
+                    "primaryVersion": "*",
+                    "deployMode": "SAAS"
+                }
+            },
+            "responseMessages": []
+        }
+    }
+}

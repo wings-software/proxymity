@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+node_modules
+coverage
+.nyc_output
+migrations/dump
+config/local.*
+keys
+.s3cfg
+s3
